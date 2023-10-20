@@ -1,5 +1,7 @@
 # Capstone-Project
 # Breast Cancer Prediction using Deep Learning
+![Picture1](https://github.com/TonyN2060/Capstone-Project/assets/128211953/619cebf4-c8b2-46d1-bed8-4017ffef1b31)
+
 ## 1. Business Overview
 Breast cancer ranks as the most common cancer globally and the second leading cause of cancer-related deaths. According to the World Health Organization (WHO), breast cancer is the primary cause of death among women aged 45-55 years with, affecting 1 in 8 women. Early detection and timely intervention play a pivotal role in the prognosis of breast cancer. When detected early, and if adequate diagnosis and treatment are available, the chances of survival increase significantly. Thus, the importance of early detection cannot be overstated, as it can lead to more effective treatments, reduce the need for aggressive intervention procedures, and substantially lower breast-cancer-related deaths.
 
@@ -16,11 +18,13 @@ Breast cancer ranks as the most common cancer globally and the second leading ca
 
 The Breast Ultrasound Images Dataset comprises breast ultrasound images from 600 female patients aged between 25 and 75 years. The dataset consists of 780 images with an average image size of 500 × 500 pixels. The images are stored in PNG format.
 
+![Distribution of Images in each class](https://github.com/TonyN2060/Capstone-Project/assets/128211953/f1bb1944-02a1-4668-a5fc-5d84667af02e)
+
 The data is categorized into three sets:
 
-Benign: This set contains 437 images.
-Malignant: This set contains 210 images.
-Normal: This set contains 133 images.
+1. Benign: This set contains 437 images.
+2. Malignant: This set contains 210 images.
+3. Normal: This set contains 133 images.
 
 
 ## 3.0 Data Preparation 
