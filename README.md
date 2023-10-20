@@ -45,15 +45,20 @@ In this section, we will perform several preprocessing steps on the images to pr
 Based on the accuracy and recall scores, the baseline model is able to predict fairly well and outperforms the latter two with the highest accuracy and recall scores for the three classes. Despite the deeper architecture of the second model, it is not performing well across the classes. While the adapted VGG model performs better than the second model, its performance remains below that of the baseline model.
 
 ## Conclusion
-1.   Our model's achieved sensitivity ABOVE 80% demonstrateS its potential to make a substantial positive impact on patient outcomes and healthcare decision-making in the realm of early breast cancer detection.
+1.   Our model's achieved sensitivity above 80% demonstrateS its potential to make a substantial positive impact on patient outcomes and healthcare decision-making in the realm of early breast cancer detection.
 2. The training progression of the model indicates consistent improvement in its ability to classify breast cancer images. The steady decrease in training and validation loss also suggests model convergence and effective learning from the data.
 3. Overall, our deep learning based breast cancer prediction system holds significant promise for improving detection and intervention in breast cancer cases.
 
-## Reccomendations
+## Recomendations
 1. Experiment with different model architectures and pretrained models like ResNet, Inception, or EfficientNet to enhance model performance.
 2. Establish a feedack loop with clinicians where model predictions can be reviewed and corrected.
 3. Expand the dataset with more diverse samples for increased model robustness.
 4. Incorporate patient metadata and clinical parameters for improved accuracy.
 
+## Nest Steps
+1. Explore additional hyperparameters and optimization techniques to fine-tune the model.
+2. Incorporate additional medical imaging data from modalities like mammograms to enhance the model's prediction accuracy.
+3. Implement adaptive learning to the model to improve its predictions over time based on feedback or new data.
+
 ## Deployment
-The model was deployed using Streamlit and is working as expected.
+The model was deployed using ![Streamlit](https://practice-5gpe5kt7nrhtt5o2vznesp.streamlit.app/) and is working as expected.
