@@ -54,3 +54,6 @@ Based on the accuracy and recall scores, the baseline model is able to predict f
 2. Establish a feedack loop with clinicians where model predictions can be reviewed and corrected.
 3. Expand the dataset with more diverse samples for increased model robustness.
 4. Incorporate patient metadata and clinical parameters for improved accuracy.
+
+## Deployment
+The model was deployed using Streamlit and is working as expected.
