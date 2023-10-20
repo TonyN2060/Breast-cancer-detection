@@ -1,0 +1,6 @@
+streamlit
+tensorflow
+numpy
+pillow 
+h5py
+typing-extensions
