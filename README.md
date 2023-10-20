@@ -55,10 +55,10 @@ Based on the accuracy and recall scores, the baseline model is able to predict f
 3. Expand the dataset with more diverse samples for increased model robustness.
 4. Incorporate patient metadata and clinical parameters for improved accuracy.
 
-## Nest Steps
+## Next Steps
 1. Explore additional hyperparameters and optimization techniques to fine-tune the model.
 2. Incorporate additional medical imaging data from modalities like mammograms to enhance the model's prediction accuracy.
 3. Implement adaptive learning to the model to improve its predictions over time based on feedback or new data.
 
 ## Deployment
-The model was deployed using ![Streamlit](https://practice-5gpe5kt7nrhtt5o2vznesp.streamlit.app/) and is working as expected.
+The model was deployed using [Streamlit](https://practice-5gpe5kt7nrhtt5o2vznesp.streamlit.app/) and is working as expected.
